@@ -18,6 +18,12 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_native_splash: ^1.2.0
+
+flutter_native_splash:
+  background_image: "assets/images/background.png"
+  image: assets/icons/icon_white.png
+  fullscreen: true
 
 flutter:
 
